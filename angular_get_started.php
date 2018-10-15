@@ -17,9 +17,6 @@
 		<div>
 			Qualification :{{employee.qualification}}
 		</div>
-		<div>
-			Address :{{employee.address}}
-		</div>
 	</div>
 
 </body>
